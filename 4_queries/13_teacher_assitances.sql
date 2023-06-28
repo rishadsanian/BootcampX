@@ -17,3 +17,5 @@ ORDER BY a.name;
 -- WHERE cohorts.name = 'JUL02'
 -- GROUP BY teachers.name, cohorts.name
 -- ORDER BY teacher;
+
+
